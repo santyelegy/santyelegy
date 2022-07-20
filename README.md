@@ -1,9 +1,17 @@
 ### Hi there 👋
 
-<!--
-**santyelegy/santyelegy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Mail](https://img.shields.io/badge/-santyelegy@gmail.com-critical?style=flat-square&logo=Gmail&logoColor=white&link=mailto:santyelegy@gmail.com)](mailto:santyelegy@gmail.com)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-Here are some ideas to get you started:
+
+![santyelegy's GitHub stats](https://github-readme-stats.vercel.app/api?username=santyelegy&count_private=true&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santyelegy&layout=compact&hide=VHDL,Coq)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![我的 LeetCode 数据](https://stats.justsong.cn/api/leetcode/?username=santyelegy) -->
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
